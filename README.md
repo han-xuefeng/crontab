@@ -6,6 +6,7 @@ Go开发的crontab 代替linux原生crontab
 一个是master,负责后台管理维护计划任务。
 一个是worker,负责调度和执行计划任务。
 ##安装
+
 ###下载
 git clone XXX
 
@@ -38,6 +39,7 @@ go build main.go
 ```
 
 ###后台管理效果图
-
+#### 效果图1
 ![效果图](./doc/img/1.png)
+#### 效果图1
 ![效果图](./doc/img/2.png)
