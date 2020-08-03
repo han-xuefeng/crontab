@@ -3,7 +3,7 @@ package worker
 import (
 	"math/rand"
 	"os/exec"
-	"owenliang/crontab/common"
+	"github.com/han-xuefeng/crontab/common"
 	"time"
 )
 

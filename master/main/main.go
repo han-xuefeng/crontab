@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"owenliang/crontab/master"
+	"github.com/han-xuefeng/crontab/master"
 	"runtime"
 	"strconv"
 	"time"
