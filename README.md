@@ -40,6 +40,6 @@ go build main.go
 
 ###后台管理效果图
 #### 效果图1
-![效果图](./images/img/1.png)
+![效果图](image/1.png)
 #### 效果图1
-![效果图](./images/img/2.png)
+![效果图](image/2.png)
